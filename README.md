@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
-<p align="left"> <a href="https://twitter.com/keshavs65577688" target="blank"><img src="https://img.shields.io/twitter/follow/keshavs65577688?logo=twitter&style=for-the-badge" alt="keshavs65577688" /></a> </p>
-
 - 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **any frontend web and mobile projects involving React and React Native**
@@ -20,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/keshavs65577688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keshavs65577688" height="30" width="40" /></a>
+<a href="https://twitter.com/keshavs65577688" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/06/Logo-Twitter.jpg" alt="keshavs65577688" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/keshav-saini-07285b172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-saini-07285b172" height="30" width="40" /></a>
 <a href="https://hashnode.com/@keshavsaini0905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@keshavsaini0905" height="30" width="40" /></a>
 </p>
