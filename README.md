@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavsaini2607&label=Profile%20views&color=0e75b6&style=flat" alt="keshavsaini2607" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshavsaini2607" alt="keshavsaini2607" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/keshavs65577688" target="blank"><img src="https://img.shields.io/twitter/follow/keshavs65577688?logo=twitter&style=for-the-badge" alt="keshavs65577688" /></a> </p>
 
